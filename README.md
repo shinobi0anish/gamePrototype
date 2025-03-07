@@ -1,1 +1,3 @@
 # gamePrototype
+
+update README
